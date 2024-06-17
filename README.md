@@ -13,4 +13,8 @@
 <li>changle mysql config present on application.properties file</li>
 <li>run project</li>
 
+<h3>API EndPoints</h3>
+<li>GET: http://localhost:8080/api/user/fetch?username={username}</li>
+<li>POST:  http://localhost:8080/api/user/register</li>
+
 
